@@ -41,8 +41,6 @@ The dataset contains historical Car Dekho used-car information, including:
 - Transmission
 - Previous Owner Count
 
-[Car Dekho Data.xlsx](https://github.com/user-attachments/files/31658258/Car.Dekho.Data.xlsx)
-
 The dataset contains **299 records after duplicate removal and data cleaning**.
 
 ---
