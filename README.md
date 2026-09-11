@@ -8,12 +8,6 @@ The analysis examines factors such as **car model, car age, mileage, fuel type, 
 
 ---
 
-## 🎓 Internship Project
-
-This project was developed as part of the **VOIS and Vodafone Idea Foundation CSR Program – 4 Weeks Virtual Internship on Data Analytics**.
-
----
-
 ## 🎯 Objectives
 
 - Analyze used-car market trends and pricing patterns.
@@ -137,6 +131,7 @@ Correlation analysis was performed to understand the relationships between numer
 
 - **Programming Language:** Python
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
+- **Development Environment:** Google Colab
 
 ---
 
