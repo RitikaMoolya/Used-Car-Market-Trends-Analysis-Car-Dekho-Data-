@@ -140,3 +140,7 @@ Correlation analysis was performed to understand the relationships between numer
 Ritika Moolya  
 Bachelor of Computer Applications (BCA)  
 Interested in Data Analytics, Data Science, and Business Intelligence
+
+---
+
+⭐ If you found this project useful, consider giving the repository a star!
